@@ -1,1 +1,0 @@
-from .scannet_multiview_spa_pretrain import ScanNetMultiViewSPAPretrain
